@@ -3458,7 +3458,7 @@ input[type=button].btn-block {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
-
+/*
 .custom-control {
   position: relative;
   z-index: 1;
@@ -3865,7 +3865,7 @@ input[type=button].btn-block {
 .custom-select {
     transition: none;
   }
-}
+}*/
 
 .nav {
   display: flex;
